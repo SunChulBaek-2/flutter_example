@@ -1,4 +1,4 @@
-# flutter_example
+# flutter_example [![CircleCI](https://circleci.com/gh/x1210x/flutter_example/tree/master.svg?style=svg)](https://circleci.com/gh/x1210x/flutter_example/tree/master)
 
 A new Flutter application.
 
